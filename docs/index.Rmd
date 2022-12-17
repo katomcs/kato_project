@@ -28,3 +28,4 @@ plot(pressure)
 ```
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+<a href="https://github.com/katomcs/kato_project/blob/docs/docs/final_R_reference.html">Reference</a>
